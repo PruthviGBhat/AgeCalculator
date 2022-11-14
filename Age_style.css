@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(31, 31, 136, 0.9);
+}
+
+.row {
+    padding: 50px;
+}
+
+.btn-secondary {
+    margin: 41px;
+}
+
+#format {
+    margin: 30px;
+}
+#demo{
+    color: rgb(110, 17, 17);
+}
+.card-header{
+    color: white;
+}
